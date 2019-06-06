@@ -1,0 +1,28 @@
+{
+  "name": "sample-create-page-api-gatsby",
+  "version": "1.0.0",
+  "description": "sample projet to generate a static site from the backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresap2150/sample-create-page-api-gastbi.git"
+  },
+  "author": "Andres Aparicio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresap2150/sample-create-page-api-gastbi/issues"
+  },
+  "homepage": "https://github.com/andresap2150/sample-create-page-api-gastbi#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "gatsby": "^2.0.0",
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1",
+    "react-markdown": "^4.0.6",
+    "reactstrap": "^7.1.0"
+  }
+}
